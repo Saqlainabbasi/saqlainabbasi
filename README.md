@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Go,Nest**
+  
+- 💬 Ask me about **React,Node**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/saqlain-abbasi](www.linkedin.com/in/saqlain-abbasi)
-
-- 💬 Ask me about **React,Node**
 
 - 📫 How to reach me **saqlaina527@gmail.com**
 
